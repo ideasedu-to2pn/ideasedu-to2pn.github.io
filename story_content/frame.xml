@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns10111000001" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns10111000101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns10111000001" font="Open Sans" controllayout="npnxnanbsnfns10111000001" colorscheme="npnxnanbnsnfns10111000001" string_table="npnxnanbnsnfns10111000001" />
-    <layout name="pxabnsnfns10111000001" font="Open Sans" controllayout="pxabnsnfns10111000001" colorscheme="npnxnanbnsnfns10111000001" string_table="npnxnanbnsnfns10111000001" />
-    <layout name="npxnabnsnfns10111000001" font="Open Sans" controllayout="npxnabnsnfns10111000001" colorscheme="npnxnanbnsnfns10111000001" string_table="npnxnanbnsnfns10111000001" />
-    <layout name="npnxnanbnsnfns10111000001" font="Open Sans" controllayout="npnxnanbnsnfns10111000001" colorscheme="npnxnanbnsnfns10111000001" string_table="npnxnanbnsnfns10111000001" />
-    <layout name="pxabnsnfns10111000000" font="Open Sans" controllayout="pxabnsnfns10111000000" colorscheme="npnxnanbnsnfns10111000001" string_table="npnxnanbnsnfns10111000001" />
-    <layout name="npnxnanbnsnfns10111100001" font="Open Sans" controllayout="npnxnanbnsnfns10111100001" colorscheme="npnxnanbnsnfns10111000001" string_table="npnxnanbnsnfns10111000001" />
+    <layout name="npnxnanbsnfns10111000101" font="Open Sans" controllayout="npnxnanbsnfns10111000101" colorscheme="npnxnanbnsnfns10111000101" string_table="npnxnanbnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000101" font="Open Sans" controllayout="pxabnsnfns10111000101" colorscheme="npnxnanbnsnfns10111000101" string_table="npnxnanbnsnfns10111000101" />
+    <layout name="npxnabnsnfns10111000101" font="Open Sans" controllayout="npxnabnsnfns10111000101" colorscheme="npnxnanbnsnfns10111000101" string_table="npnxnanbnsnfns10111000101" />
+    <layout name="npnxnanbnsnfns10111000101" font="Open Sans" controllayout="npnxnanbnsnfns10111000101" colorscheme="npnxnanbnsnfns10111000101" string_table="npnxnanbnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000100" font="Open Sans" controllayout="pxabnsnfns10111000100" colorscheme="npnxnanbnsnfns10111000101" string_table="npnxnanbnsnfns10111000101" />
   </layouts>
   <control_options>
     <optiongroups>
       <optiongroup name="sidebaroptions">
         <options>
-          <option name="title_enabled" value="false">
+          <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="TO2-2-33" />
+              <option name="title_text" value="Ph&amp;#233;p trừ c&amp;#243; số bị trừ l&amp;#224; số tr&amp;#242;n chục. Ph&amp;#233;p trừ c&amp;#243; nhớ trong phạm vi 100." />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -28,7 +27,7 @@
           </option>
           <optionlist name="tabs">
             <listitems>
-              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="resources" value="false" group="linkright" />
               <listitem name="outline" value="true" group="linkright" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
@@ -58,7 +57,7 @@
       </optiongroup>
       <optiongroup name="controls">
         <options>
-          <option name="volume" value="false" />
+          <option name="volume" value="true" />
           <option name="seekbar" value="true">
             <options>
               <option name="readonly" value="false" />
@@ -83,8 +82,8 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns10111000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npnxnanbsnfns10111000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
       <control name="pauseplay" enabled="true" />
@@ -106,8 +105,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="pxabnsnfns10111000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
       <control name="pauseplay" enabled="true" />
@@ -129,8 +128,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns10111000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npxnabnsnfns10111000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
       <control name="pauseplay" enabled="true" />
@@ -152,8 +151,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns10111000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npnxnanbnsnfns10111000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
       <control name="pauseplay" enabled="true" />
@@ -175,8 +174,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111000000">
-      <control name="volume" enabled="false" />
+    <control_layout name="pxabnsnfns10111000100">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
       <control name="pauseplay" enabled="true" />
@@ -198,32 +197,9 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns10111100001">
-      <control name="volume" enabled="false" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="false" />
-      <control name="next" enabled="false" />
-      <control name="swipeleft" enabled="false" />
-      <control name="swiperight" enabled="false" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npnxnanbnsnfns10111000001">
+    <colorscheme name="npnxnanbnsnfns10111000101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1140,7 +1116,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npnxnanbnsnfns10111000001">
+    <string_table name="npnxnanbnsnfns10111000101">
       <string id="acc_active">active</string>
       <string id="check_include">Check to include</string>
       <string id="clear">Clear and return to menu</string>
@@ -1161,7 +1137,7 @@
       <string id="shortcuthelp">List keyboard shortcuts</string>
       <string id="shortcut">Shortcut</string>
       <string id="togglezoom">Switch zoom modes</string>
-      <string id="outline">MỤC LỤC</string>
+      <string id="outline">Mục Lục</string>
       <string id="disabled_orientation">Please rotate your device</string>
       <string id="next">NEXT</string>
       <string id="acc_next">next</string>
@@ -1210,36 +1186,39 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.69SIgSKcBnW.6eDeKOuCNIi" displaytext="Giới thiệu" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.5lb0mhiO9Pg" displaytext="Mục tiêu" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.5rDNGYzeegN" displaytext="Câu 1a" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.5xHqN6fA6NG" displaytext="Câu 1b" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6InM5dLqIao" displaytext="Câu 1c" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6GdBUHwgWEJ" displaytext="Câu 1d" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.5n9iAmZ6OrD" displaytext="Câu 2a" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6eb3r0DthNU" displaytext="Câu 2b" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6YVkM22vqL2" displaytext="Câu 3a" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.5gOqna0CQCN" displaytext="Câu 3b" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6lfgP5xfRSg" displaytext="Câu 4a" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6TLMokHLD73" displaytext="Câu 4b" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6AbZaAoMX4P" displaytext="Câu 4c" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.5mvyPv0dIQ6" displaytext="Câu 5a" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.5tjSXS1zKJb" displaytext="Câu 5b" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6V4VBb4OZwL" displaytext="Câu 6a" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.5iBGaoaejNG" displaytext="Câu 6b" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6A82j2WRUbq" displaytext="Câu 7a" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.61Xk2Cityco" displaytext="Câu 7b" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6EeP712ZRYy" displaytext="Câu 8a" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.63H8CplDjhl" displaytext="Câu 8b" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6YSWfokAiMC" displaytext="Câu 9" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6qVC4VVkVKH" displaytext="Câu 10a " expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.6KqwoR0IELc" displaytext="Câu 10b" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.5dW4yuJcOV8" displaytext="Câu 10c" expand="false" type="slide" />
-        <slidelink slideid="_player.69SIgSKcBnW.61iOuFelJ4k" displaytext="Kết thúc" expand="false" type="slide" />
+        <slidelink slideid="_player.6ePAlE8E2wv" displaytext="TO2-1-13" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6ePAlE8E2wv.6910etKIe7g" displaytext="Giới thiệu" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5WAd38xoULU" displaytext="Mục Tiêu" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5qM0qg7c2ae" displaytext="Bài 1 A" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5nX3yipoBho" displaytext="Bài 1 B" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5yUXjGSQ6aE" displaytext="Bài 1 C" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.6iSUgjq3UUI" displaytext="Bài 2 A" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.6FSXvmwXiwC" displaytext="Bài 2 B" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5thGnhDp173" displaytext="Bài 2 C" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.66pqR9HKFcz" displaytext="Bài 2 D" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.6YAWbpy8eXm" displaytext="Bài 3 A" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.6dH9MtRd4dZ" displaytext="Bài 3 B" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5XShLbjHDOF" displaytext="Bài 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5VOMHwGH4Sq" displaytext="Bài 5A" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5jhTSP5V7MS" displaytext="Bài 5B" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.6HcV7NCl4j4" displaytext="Bài 5C" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.6ModQEkC4H6" displaytext="Bài 6 A" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5lYjlqjbk3F" displaytext="Bài 6 B" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5cVZoy3m0b5" displaytext="Bài 6 C" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.6lo1zopZ2Wk" displaytext="Bài 7 A" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.6qCaug8UeoJ" displaytext="Bài 7 B" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5hiJVoKjkzt" displaytext="Bài 8 A" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.6XE78IitHRy" displaytext="Bài 8 B" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.5hgoFTWMwUh" displaytext="Câu 9" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.6r4nsc0KWZd" displaytext="Câu 10" expand="false" type="slide" />
+            <slidelink slideid="_player.6ePAlE8E2wv.6PYWVavOMhw" displaytext="Kết thúc" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
-  <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
+  <resource_data description="" />
   <transcript_data />
   <glossary_data />
 </bwFrame>
